@@ -1,2 +1,2 @@
 # gpt-from-scratch
-- Generatively Pre-trained Transformers
+- Building Generatively Pre-trained Transformers from scratch
